@@ -20,3 +20,6 @@ npx tailwindcss init
 
 
 ```
+
+with `antialiased`, text may appear more smoother and sharper on larger screens.
+
