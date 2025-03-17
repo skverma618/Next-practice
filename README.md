@@ -11,3 +11,12 @@ npm run dev
 
 page.ts - client side page for a user
 route.ts- api route
+
+### Tailwind CSS
+
+```
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init
+
+
+```
